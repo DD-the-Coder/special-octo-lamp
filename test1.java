@@ -6,7 +6,12 @@ public class test1 {
 
         //adding this code need to be developed...
 
+<<<<<<< Updated upstream
         //stash1
+=======
+
+        //stash2
+>>>>>>> Stashed changes
 
     }
 }
